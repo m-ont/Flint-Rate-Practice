@@ -7,4 +7,4 @@ Notes:
 
 If the Info Text or the Scoreboard is not working properly, break the lamp outside the map.
 Make sure to pick up the items for the counter to work properly.
-You can reset by dropping the shovel.
+You can reset to start by dropping the shovel.
